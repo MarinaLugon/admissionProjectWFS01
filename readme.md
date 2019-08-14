@@ -37,6 +37,9 @@ Para participar da etapa de projeto será necessário que o participante tenha u
 ### 2.2 Instalando Git
 Os participantes devem utilizar a ferramenta git para gerenciar seu código e fazer o envio na plataforma github. O Git é uma ferramenta que permite a atualização fácil da evolução do seu projeto junto ao github, permitindo um controle melhor do seu processo - é análogo ao processo de ir salvando documentos do Word enquanto você faz modificações, só que de maneira mais organizada e controlável :).  
 Caso nunca tenha usado git, você pode acessar a página https://www.atlassian.com/br/git/tutorials/install-git para encontrar instruções (em inglês) de como instalar o git em seu computador. 
+
+
+
 ### 2.3 Command line
 Para utilizar o git, será necessário utilizar um programa de linha de comando. Os usuários de macOS e linux já devem ter um programa instalado chamado Terminal. Os usuários de Windows podem seguir as instruções na instrução do link acima (item 2.2) para instalar o GitBash, que pode ser usado para passar os comandos necessários (não é necessário repetir as instruções, se você já seguiu, está tudo certo). Nas próximas instruções, sempre que o participante precisar interagir com o Terminal ou com o GitBash, vamos escrever apenas Terminal.
 Para navegar entre pastas no Terminal, você vai precisar dos seguintes comandos (para utilizá-los, basta digitar o comando na janela do Terminal e pressionar enter):  
