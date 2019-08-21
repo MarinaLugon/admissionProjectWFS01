@@ -47,4 +47,21 @@ footer {
 }
 
 
+form {
+  padding:55px;
+  weight: 600px;
+  height: 900px;
+}
+
+
+
+button {
+background-color: orangered;
+color: white;
+font-size: 35px;
+cursor: pointer;
+padding:30px;
+weight: 30px;
+height: 20px;
+}
   
