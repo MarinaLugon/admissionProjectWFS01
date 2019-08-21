@@ -1,0 +1,50 @@
+body {
+  background-color: #5B5689;
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+
+header {
+  background: #5B5689;
+  height: 500px;
+}
+IMG.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+main {
+  background:#5B5689;
+  height: 500px; 
+}
+table, td, th {
+  border: 55px solid orangered;
+  background-color:white;
+  padding: 80px 40px;
+  color: orangered;
+  font-size:40px;
+  }
+  
+  table {
+  border-collapse: collapse;
+  width: 100%;
+  }
+  
+  td {
+  height: 50px;
+  vertical-align: bottom;
+  }
+aside {
+  background: white;
+  height: 300px;
+}
+ 
+footer {
+  background:rgb(185, 181, 181);
+  height: 300px;
+}
+
+
+  
